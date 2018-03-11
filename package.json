@@ -1,0 +1,15 @@
+{
+  "author": "dignifiedquire",
+  "bugs": {
+    "url": "https://github.com/dignifiedquire/go-basex/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/dignifiedquire/go-basex"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-basex",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
