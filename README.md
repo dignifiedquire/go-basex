@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
 [![GoDoc](https://godoc.org/github.com/dignifiedquire/go-basex?status.svg)](https://godoc.org/github.com/dignifiedquire/go-basex)
-[![Coverage Status](https://coveralls.io/repos/github/dignifiedquire/go-basex/badge.svg?branch=master)](https://coveralls.io/github/dignifiedquire/go-basex?branch=master)
+[![codecov](https://codecov.io/gh/dignifiedquire/go-basex/branch/master/graph/badge.svg)](https://codecov.io/gh/dignifiedquire/go-basex)
 [![Build Status](https://travis-ci.org/dignifiedquire/go-basex.svg?branch=master)](https://travis-ci.org/dignifiedquire/go-basex)
 
 > Fast base encoding / decoding of any given alphabet using bitcoin style leading zero compression.
